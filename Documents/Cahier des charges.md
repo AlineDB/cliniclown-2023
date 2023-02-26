@@ -49,7 +49,8 @@ La différence est que la vente permet de financer l'asbl ici.
 
 ### https://www.cliniclowns.be/app/francais.html = Cliniclowns
 
-![](source professeur/img/cliniclowns site.png)
+<img src="/Documents/source%20professeur/img/cliniclowns%20site.png">
+
 
 Avis client : Possibilité pour les enfants malades de contacter les cliniclowns en vidéoconférence:prendre RV. Belles photo et accent sur Nous aider.
 
@@ -57,7 +58,8 @@ Mon avis : Beau visuel graphique. Bonne idée les RV mais il faut avoir un tél�
 
 ### https://ileauxclowns.lu/
 
-![](source professeur/img/ile aux clowns.png)
+<img src="/Documents/source%20professeur/img/ile%20aux%20clowns.png">
+
 
 Avis client : Site: simple, des belles photos,demande d’aide ou dons: charger des photos peut-être payante chez nous ?  Autres photos ou idées ?
 
@@ -71,7 +73,8 @@ Avis client: Bonnes explications (peut nous aider)
 
 ### https://www.clownalfonso.be/spectacle-ecoles-clown-enfants-jeune-publics-evenements-centres-aeres.html
 
-![](source professeur/img/alfonso clown.png)
+<img src="/Documents/source%20professeur/img/alfonso%20clown.png">
+
 
 Avis client : belles couleurs et peut utiliser certains textes
 
@@ -85,7 +88,8 @@ Aspect un peu vieillot mais correct. Orange et bleu couleurs principales.
 Explications du logo.
 Beaucoup de texte, beaucoup d'item de menu.
 
-![](source professeur/img/site_client.png)
+<img src="/Documents/source%20professeur/img/site_client.png">
+
 
 Galeries photos pour présenter les clowns. Onglet presse. Onglet legs.
 
@@ -184,7 +188,9 @@ Une proposition a alors été faite, afin que tous, ayons une bonne base.
 
 Pour ma part, j'ai un peu retravaillé cette proposition. En effet, je trouvais plus pertinent de mettre les contenus concernant le bénévolat dans la partie nous soutenir -> bénévolat ainsi que pour les produits vendus dans nous soutenir -> boutiques plutôt que de créer pour chacun une nouvelle page et sous-page.
 
-![](source professeur/img/structure.png)
+<img src="/Documents/source%20professeur/img/structure.png">
+
+[Lien Github structure](https://github.com/AlineDB/cliniclown-2023/blob/main/Documents/source%20professeur/img/structure.png)
 
 La question que je me pose encore à ce stade, concerne le formulaire. Devrais-je créer un formulaire différent pour les services, soutenir et la page contact ou alors un formulaire avec du contenus qui s'affiche selon des critères de menu déroulant ?
 
