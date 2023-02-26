@@ -14,7 +14,7 @@ Il faudra tenir compte des règles en vigeur du W3C mais aussi de l'ergonomie, l
 
 - Prendre connaissances du projet Cliniclown ([documentation](Documents/source%20professeur) fournie par les professeurs)
 - Si besoin, lister des questions pour compléter les [informations manquantes](Documents/source%20professeur/questions%20clients%206%20février) pour l'étape suivante
-- Etablir un [cahier des charges](Documents/Cahier%20des%20charges) selon les retours clients (présents le 6/02)
+- Etablir un [cahier des charges](Documents/Cahier%20des%20charges.md) selon les retours clients (présents le 6/02)
 - Définir les mots-clés, le thème/l'esprit du site,l'approche (en parallèle de l'étape précédente) 15/02/23
 - Voir ce qui se fait à la "concurrence" et comparer avec les inspirations du client (voir dans le moodboard à l'étape suivante)
 - Créer un [moodboard](https://xd.adobe.com/view/35ec68f4-b7f2-465d-b22f-b1061ca82726-60bf/?fullscreen) 26/02/23
