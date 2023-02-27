@@ -18,7 +18,8 @@ Il faudra tenir compte des règles en vigeur du W3C mais aussi de l'ergonomie, l
 - Définir les mots-clés, le thème/l'esprit du site,l'approche (en parallèle de l'étape précédente) 15/02/23
 - Voir ce qui se fait à la "concurrence" et comparer avec les inspirations du client (voir dans le moodboard à l'étape suivante)
 - Créer un [moodboard](https://xd.adobe.com/view/35ec68f4-b7f2-465d-b22f-b1061ca82726-60bf/?fullscreen) 26/02/23
-- Réfléchir à la disposition, les pages, éléments à avoir par papiers/dessins
+- Réfléchir à la disposition, les pages, éléments à avoir par papiers/dessins 26/02/23
+- [Profils utilisateurs XD](https://xd.adobe.com/view/b2858e72-8ab5-43c6-9021-b8571f9fed6a-e7d6/?fullscreen) et [scénarios XD](https://xd.adobe.com/view/bdedc54a-2e59-47b2-826a-5c8c4653eca2-e8be/?fullscreen) 27/02/23
 - Créer le wireframe cliquable (XD)
 - Définir la charte graphique (XD)
 - Créer le design (XD)
